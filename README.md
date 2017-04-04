@@ -1,5 +1,7 @@
 # Humanizing among coders
 
+<img src="https://raw.githubusercontent.com/ana-balica/hac/master/hac_intro_slide.jpeg" alt="HAC intro slide" width="512">
+
 Humanizing among coders is a keynote presented at PyCon CZ 2016. 
 This is the [original video](https://www.youtube.com/watch?v=npyB5Oz-v-I).
 
